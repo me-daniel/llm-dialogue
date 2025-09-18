@@ -1,4 +1,4 @@
-# LLM Dialogue 🤖
+# LLM Dialogue
 
 A powerful tool for creating conversations between different AI language models. Watch as two LLMs engage in thoughtful dialogue, responding to each other for multiple rounds.
 
